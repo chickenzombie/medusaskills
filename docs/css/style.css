@@ -1,0 +1,41 @@
+body {
+    font-family: Cambria, sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    color: black;
+    text-align: center;
+    background: no-repeat url("../img/Deep.jpg");
+    background-size: 100%;
+}
+
+.title {
+    
+    font-weight: normal;
+}
+
+.t1 {
+    color: aqua;
+    font-weight: normal;
+    margin-bottom: 1px;
+}
+
+.t2 {
+    color: black;
+    font-weight: normal;
+}
+
+.t3 {
+    color: deepskyblue;
+    font-weight: normal;
+}
+
+.t4 {
+    color: black;
+    font-weight: normal;
+}
+
+.medimg {
+    display: block;
+    margin: 0 auto;
+    margin-top: 1px;
+}
