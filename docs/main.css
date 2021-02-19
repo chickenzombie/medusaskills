@@ -1,0 +1,69 @@
+body {
+    color: black;
+    background-color: lightskyblue;
+    font-family: Georgia;
+}
+
+.title {
+    text-align: center;
+    font-weight: normal;
+    font-size: 28px;
+    
+}
+
+.t1 {
+    color: #00FFFF;
+    margin-bottom: 5px;
+}
+
+.t2 {
+    color: dodgerblue;
+}
+
+.table {
+    border-spacing: 0px 2px;
+    margin: auto;
+}
+
+tr, td {
+    border: 1px solid black;
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+}
+
+.max {
+    background: white;
+}
+.fut {
+    background: dodgerblue;
+}
+
+.curr {
+    background: aqua;
+}
+
+.name {
+    background: aqua;
+    font-family: Georgia;
+    color: black;
+    text-align: left;
+    border-right: 0px;
+    font-size: 14px;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+.dusa_h {
+    background: aqua;
+    width: 400px;
+    border-left: 0px;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    border-collapse: separate;
+}
+
