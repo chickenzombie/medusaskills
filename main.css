@@ -8,7 +8,7 @@ body {
     text-align: center;
     font-weight: normal;
     font-size: 28px;
-    
+
 }
 
 .t1 {
@@ -25,7 +25,8 @@ body {
     margin: auto;
 }
 
-tr, td {
+tr,
+td {
     border: 1px solid black;
     width: 35px;
     height: 35px;
@@ -35,6 +36,7 @@ tr, td {
 .max {
     background: white;
 }
+
 .fut {
     background: dodgerblue;
 }
@@ -47,7 +49,7 @@ tr, td {
     background: aqua;
     font-family: Georgia;
     color: black;
-    text-align: left;
+    text-align: center;
     border-right: 0px;
     font-size: 14px;
     border-top-right-radius: 0px;
@@ -66,4 +68,3 @@ tr, td {
     border-bottom-left-radius: 0px;
     border-collapse: separate;
 }
-
